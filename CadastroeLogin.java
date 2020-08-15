@@ -7,8 +7,8 @@ public class CadastroeLogin {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Bem vindo/a ao sistema de gerenciamento de estoque!");
-        System.out.println("Verificamos que é seu primeiro acesso. Vamos executar o processo de criação de usuário. ");
+        System.out.println("Bem vindo/a, vamos criar seu Login e senha agora.");
+        
 
         //Processo de criação de usuário:
         System.out.print("Informe seu nome completo: ");
